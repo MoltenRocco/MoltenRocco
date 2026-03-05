@@ -15,7 +15,6 @@
 <br><br>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=MoltenRocco&theme=flat&no-frame=true&row=1&column=6"/>
 
 <br><br>
 
