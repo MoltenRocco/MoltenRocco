@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=81A1C1&center=true&vCenter=true&width=600&lines=Hi+I'm+Anwar;Developer;Helping+Compass+to+BUILD+ ❤️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=81A1C1&center=true&vCenter=true&width=600&lines=Hi+I'm+Anwar;Developer;Helping+Compass+to+BUILD" />
 
 <br><br>
 
